@@ -24,10 +24,10 @@ sources of white light and determining, among others, which of them best suits t
 ## humidity
 
 <table><tr>
-<td><img src="humidity sensor//images//h9.jpg" width="35%" height="60%">
-<img src="humidity sensor//images//h2.jpg" width="35%" height="60%">
-<img src="humidity sensor//images//plt1.jpg" width="35%" height="60%">
-<img src="humidity sensor//images//FallTime.jpg" width="55%" height="130%"></td>    
+<td><img src="humidity sensor//images//h9.jpg" width="35%" height="50%">
+<img src="humidity sensor//images//h2.jpg" width="55%" height="50%">
+<img src="humidity sensor//images//plt1.jpg" width="45%" height="150%">
+<img src="humidity sensor//images//FallTime.jpg" width="50%" height="100%"></td>    
 </tr></table>
 
 Humidity sensing is a fundamental technique employed in various applications, including environmental monitoring, industrial processes, and comfort control systems. This exercise focuses on understanding the principles of humidity analysis and exploring different humidity sensor technologies. By examining their performance and response characteristics, we aim to identify the most suitable sensor for accurately measuring and monitoring moisture levels in the surrounding environment.
